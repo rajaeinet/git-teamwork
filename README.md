@@ -45,6 +45,7 @@ git push -u origin YOUR_BRANCH_NAME
 
 - [Omid Rajaei](https://www.linkedin.com/in/omid-rajaei/)
 - Matin Eshtiagh
+- Dorsa Faham
 
 
 # License
