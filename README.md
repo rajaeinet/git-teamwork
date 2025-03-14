@@ -42,10 +42,12 @@ git push -u origin YOUR_BRANCH_NAME
 17. Write something and submit the pull request
 
 # Contributors
-
+- sadra sabzevari shahreza
 - [Omid Rajaei](https://www.linkedin.com/in/omid-rajaei/)
 - Matin Eshtiagh
 - Dorsa Faham
+- Sania Zare
+- amir hosein masroor
 
 
 # License
